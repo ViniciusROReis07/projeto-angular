@@ -1,0 +1,25 @@
+main {
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 5vh;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    #side-left {
+      padding-top: 15vh;
+      img {
+        height: 200px;
+        width: 650px;
+      }
+      h1 {
+        font-size: 95pt;
+        color: #1db954;
+      }
+    }
+    #side-rigth {
+      padding-top: 5vh;
+      img {
+        width: 500px;
+      }
+    }
+  }
+  
